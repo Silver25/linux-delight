@@ -59,6 +59,8 @@ My decision to use real machine rather than virtual machine was because of two r
 
 [AnduinOS](readme_assets/anduinos.md), 1.8 GB ISO - a custom Ubuntu-based with GNOME-based desktop
 
+[Kubuntu 24.04.3](readme_assets/kubuntu_24043), 4.24 GB ISO - with KDE Plasma desktop
+
 <br><hr><br>
 </details>  
 

@@ -1,4 +1,4 @@
-### Fedora Linux 42 Workstation with Gnome desktop<br>
+## Fedora Linux 42 Workstation with Gnome desktop<br>
 
 *Booted from USB as a Live Session [ Toshiba white ]  
 *Installed from Ventoy USB HDD 500GB in 'normal mode'

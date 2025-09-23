@@ -1,4 +1,5 @@
-AnduinOS - 1.76 GB ISO is a custom Ubuntu-based with GNOME-based desktop
+## AnduinOS - 1.76 GB ISO is a custom Ubuntu-based with GNOME-based desktop
+
 *Run from USB HDD Ventoy on secure boot [ on 'Pinky' and Lenovo ]
 *Installed and run over Secure Boot
 - Internet connected [ Firefox default ]
