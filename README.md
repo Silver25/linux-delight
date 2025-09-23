@@ -55,11 +55,13 @@ My decision to use real machine rather than virtual machine was because of two r
 
 [Voyager Live 25.04.2 "Plucky Puffin"](readme_assets/voyager_25042.md), 4.1 GB ISO - based on Ubuntu, with GNOME desktop  
 
-[Fedora Linux 42 Workstation](readme_assets/fedora_42_workstation.md), 2.23GB ISO - with Gnome desktop  
+[Fedora Linux 42 Workstation](readme_assets/fedora_42_workstation.md), 2.23 GB ISO - with Gnome desktop  
 
-[AnduinOS](readme_assets/anduinos.md), 1.8 GB ISO - a custom Ubuntu-based with GNOME-based desktop
+[AnduinOS](readme_assets/anduinos.md), 1.8 GB ISO - a custom Ubuntu-based with GNOME-based desktop  
 
-[Kubuntu 24.04.3](readme_assets/kubuntu_24043), 4.24 GB ISO - with KDE Plasma desktop
+[Kubuntu 24.04.3](readme_assets/kubuntu_24043), 4.24 GB ISO - with KDE Plasma desktop  
+
+[Ubuntu Unity](readme_assets/ubuntuunity.md), 3.56 GB ISO
 
 <br><hr><br>
 </details>  

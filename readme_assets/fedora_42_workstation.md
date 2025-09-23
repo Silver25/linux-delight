@@ -1,7 +1,7 @@
 ## Fedora Linux 42 Workstation with Gnome desktop<br>
 
 *Booted from USB as a Live Session [ Toshiba white ]  
-*Installed from Ventoy USB HDD 500GB in 'normal mode'
+*Installed from Ventoy USB HDD 500GB in 'normal mode'  
 
 - Internet connected [ Firefox default ]
 - mouse left clik as a touchpad tap [ adjustment in settings ]
@@ -15,9 +15,9 @@
 - Audio, video on Youtube works, streaming [sflix.to] NOT fluid
 - Supporting browser Casting tab or full computer screen on TV
 
-- opens network WDMyCloud easily [ Files -> Network -> MyCloud ]
+- opens network WDMyCloud easily [ Files -> Network -> MyCloud ]  
 
-ISSUES:
+ISSUES:  
 - Taskbar/Panel hidden, show with Win/Super key or three fingers slide on touchpad
 - NO confirmation or approval before deleting any file, only for Shift+DEL [ permanent ]
 - Secondary/right mouse click as a touchpad tap or corner click, NOT both

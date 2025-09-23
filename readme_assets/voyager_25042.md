@@ -1,13 +1,13 @@
 ## Voyager Live 25.04.2 "Plucky Puffin"
 
-4.25 GB ISO - Based on Ubuntu, with GNOME desktop<br>
-[ https://voyagerlive.org/voyager-25-04/ ] a French distro based on Xubuntu.<br>
-** - what this Linux distribution has to offer takes the prize for being the most user-friendly and elegant<br>
-[ https://www.zdnet.com/article/voyager-23-10-might-be-my-favorite-take-on-the-gnome-desktop-to-date ]<br>
+4.25 GB ISO - Based on Ubuntu, with GNOME desktop  
+[ https://voyagerlive.org/voyager-25-04/ ] a French distro based on Xubuntu.  
+** - what this Linux distribution has to offer takes the prize for being the most user-friendly and elegant  
+[ https://www.zdnet.com/article/voyager-23-10-might-be-my-favorite-take-on-the-gnome-desktop-to-date ]  
 
-*run from USB HDD Ventoy on secure boot<br>
-*Installed and run over Secure Boot<br>
-*as a distro based on Ubuntu linux, it's help system is available: https://help.ubuntu.com/<br>
+*run from USB HDD Ventoy on secure boot  
+*Installed and run over Secure Boot  
+*as a distro based on Ubuntu linux, it's help system is available: https://help.ubuntu.com/  
 
 - Internet connected [ Firefox default ]
 - mouse left click as a touchpad tap
@@ -28,8 +28,8 @@
 - Bitwarden starts from Menu or Dock [ can't start from App Dashboard ]
 - Mahjongg installed
 
-- opens network WDMyCloud easily
+- opens network WDMyCloud easily  
 
-ISSUES:
+ISSUES:  
 - Alt+Tab keys doesn't work by default [ 'out of the box' ], instead is 'Super' + Tab, Ubuntu combination
 - Suspend of the system coused by closed laptop lid, NO 'out of the box' settings option to disable
