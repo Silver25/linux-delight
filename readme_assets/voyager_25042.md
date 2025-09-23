@@ -1,5 +1,5 @@
 ### Voyager Live 25.04.2 "Plucky Puffin"  
-4.1 GB ISO - Based on Ubuntu, with GNOME desktop<br>
+4.25 GB ISO - Based on Ubuntu, with GNOME desktop<br>
 [ https://voyagerlive.org/voyager-25-04/ ] a French distro based on Xubuntu.<br>
 ** - what this Linux distribution has to offer takes the prize for being the most user-friendly and elegant<br>
 [ https://www.zdnet.com/article/voyager-23-10-might-be-my-favorite-take-on-the-gnome-desktop-to-date ]<br>
