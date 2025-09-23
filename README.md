@@ -48,20 +48,20 @@ My decision to use real machine rather than virtual machine was because of two r
 2. Testing Linux systems on real computer will give better and more realistic results for other interested in migration to Linux  
 
 <details>
-<summary>Linux distros installed and fully functional <b style="color: yellow;">(open here)</b></summary>  
+<summary>Linux distros installed and fully functional <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
-<p>
-This Linux distributions installed and fully operational with all boxes checked - 'out-of-the-box'.</p>
 
-<p>[Voyager Live 25.04.2 "Plucky Puffin"](readme_assets\voyager_25042.md), 4.1 GB ISO - Based on Ubuntu, with GNOME desktop</p>
+#### This Linux distributions installed and fully operational with all boxes checked - 'out-of-the-box'.
 
-<p>Fedora Linux 42 Workstation with Gnome desktop</p>
+[Voyager Live 25.04.2 "Plucky Puffin"](readme_assets\voyager_25042.md), 4.1 GB ISO - Based on Ubuntu, with GNOME desktop  
+
+Fedora Linux 42 Workstation with Gnome desktop  
 
 <br><hr><br>
 </details>  
 
 <details>
-<summary>Linux distros installed, but without some functionalities <b style="color: yellow;">(open here)</b></summary>  
+<summary>Linux distros installed, but without some functionalities <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
 <p>
 The Linux distros listed here were installed successfully on a physical laptop with secure boot enabled, but failed to fulfil some tasks.</p>
@@ -69,7 +69,7 @@ The Linux distros listed here were installed successfully on a physical laptop w
 </details>  
 
 <details>
-<summary>Distros FAILED to Install or to start as Installed <b style="color: yellow;">(open here)</b></summary>  
+<summary>Distros FAILED to Install or to start as Installed <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
 <p>
 Next Linux distros can be started from USB as a Live session, but refuse to install on laptop, or failed to start as installed.</p>
