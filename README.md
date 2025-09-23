@@ -53,7 +53,7 @@ My decision to use real machine rather than virtual machine was because of two r
 
 #### This Linux distributions installed and fully operational with all boxes checked - 'out-of-the-box'.
 
-[Voyager Live 25.04.2 "Plucky Puffin"](readme_assets\voyager_25042.md), 4.1 GB ISO - Based on Ubuntu, with GNOME desktop  
+[Voyager Live 25.04.2 "Plucky Puffin"](readme_assets/voyager_25042.md), 4.1 GB ISO - Based on Ubuntu, with GNOME desktop  
 
 Fedora Linux 42 Workstation with Gnome desktop  
 
