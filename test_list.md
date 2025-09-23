@@ -17,20 +17,21 @@ Tasks first tested on Live environment, and then on Installed OS
 ☐ Access to local network drive 'WD MyCloude Home'  
 ☐ Screen brightness and volume adjustment with keyboard keys  
 ☐ Mouse left click as touchpad tap (it's speed up use of the system)  
-☐ Confirmation or approval before deleting any file, two step Delete  
-☐ Taskbar/Dock/Panel auto hidden/open with mouse pointer movement  
-☐ Terminal use system's clipboard with easy - keyboard keys [ Ctrl + C/V ]  
-☐ Software manager - app installation list, easy to navigate or install  
-☐ Alternative browser option installation with App Manager  
-☐ Alternative browser option installation with Terminal  
-☐ Installed App run and works [ Dropbox, Bitwarden, VS Code, etc. ]  
-☐ Speed when new window/app is launched  
+☐ Wacom Bamboo Pad graphical tablet connected works smoothly, movement of pointer is like with touchpad  
 ☐ File Manager works with tabs or multiple windows  
 ☐ Connection to local network printer  
-☐ Key 'PrtSc' automatically save image in predefined folder  
 ☐ Easy change between open windows - Alt + Tab  
+☐ Software manager - app installation list, easy to navigate or install  
+☐ Installed App run and works [ Dropbox, Bitwarden, VS Code, etc. ]  
 ☐ Fluid movement of mouse pointer over the screen  
 ☐ Fluid movement of the window scroller/ full window  
 ☐ Supporting browser Cast/Share tab or full computer screen  
 ☐ External screen/TV connection over the HDMI  
+☐ Terminal use system's clipboard with easy - keyboard keys [ Ctrl + C/V ]  
+☐ Alternative browser option installation with App Manager  
+☐ Alternative browser option installation with Terminal  
+☐ Confirmation or approval before deleting any file, two step Delete  
+☐ Taskbar/Dock/Panel auto hidden/open with mouse pointer movement  
+☐ Speed when new window/app is launched  
+☐ Key 'PrtSc' automatically save image in predefined folder  
 ☐ Community Support, FAQs and tutorials  

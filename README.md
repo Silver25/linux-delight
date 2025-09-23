@@ -55,7 +55,7 @@ My decision to use real machine rather than virtual machine was because of two r
 
 [Voyager Live 25.04.2 "Plucky Puffin"](readme_assets/voyager_25042.md), 4.1 GB ISO - Based on Ubuntu, with GNOME desktop  
 
-Fedora Linux 42 Workstation with Gnome desktop  
+[Fedora Linux 42 Workstation](readme_assets/fedora_42_workstation.md), 2.23GB ISO - with Gnome desktop  
 
 <br><hr><br>
 </details>  
