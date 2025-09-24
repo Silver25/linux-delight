@@ -4,6 +4,7 @@
 [ https://voyagerlive.org/voyager-25-04/ ] a French distro based on Xubuntu.  
 ** - what this Linux distribution has to offer takes the prize for being the most user-friendly and elegant  
 [ https://www.zdnet.com/article/voyager-23-10-might-be-my-favorite-take-on-the-gnome-desktop-to-date ]  
+[ https://www.zdnet.com/article/this-beautiful-linux-distro-deserves-to-be-better-known-heres-why/ ]  
 
 *run from USB HDD Ventoy on secure boot  
 *Installed and run over Secure Boot  
