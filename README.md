@@ -61,6 +61,8 @@ My decision to use real machine rather than virtual machine was because of two r
 
 [Kubuntu 24.04.3](readme_assets/kubuntu_24043), 4.24 GB ISO - with KDE Plasma desktop  
 
+[Ubuntu Budgie 22.04](readme_assets/ubuntubudgie.md) - 4.1 GB ISO, with Budgie Desktop Environment, MacOS-like
+
 [Ubuntu Unity](readme_assets/ubuntuunity.md), 3.56 GB ISO
 
 <br><hr><br>
