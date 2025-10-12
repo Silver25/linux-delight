@@ -94,25 +94,32 @@ Next Linux distros can be started from USB as a Live session, but refuse to inst
 <p></p>
 </details>  
 
-#### FAILED Live session Boot from USB drive/HDD
-[ DIDN'T even Start from USB because of the [Secure Boot](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/), Secure Boot is NOT supported on 'Arch' Linux ]:  
-- HeliumOS 10 based on CentOS with KDE Plasma Desktop 3.8 GB ISO = only installation [ NO live session ]  
+<details>
+<summary>FAILED Live session Boot from USB drive/HDD <b style="color: yellow;">(open for more)</b></summary>  
+<!-- comment -->
+<p>
+[ DIDN'T even Start from USB because of the [Secure Boot](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/), Secure Boot is NOT supported on 'Arch' Linux ]:</p>
+<p>
+- AntiX Linux 23.2 [ https://antixlinux.com/ ] Based on: Debian, Origin: Greece, fast, lightweight and easy-to-instal  
 - Asmi Linux 25.04 based on Ubuntu and 13 based on Debian failed to download  
+- Debian - start with grub> and after adjusting grub to boot from root, display that 'shim' is bad and stop  
 - Deepin - offer only installation from USB, no live session, failed to start as installed  
-- PepermintOS  
-- Manjaro 25.0  
-- PuppyOS  
-- Slax  
 - DSL [ Damn Small Linux ]  
 - EndeavourOS 8 Mercury Neo - boot failed from Toshiba USB created by Rufus  
+- HeliumOS 10 based on CentOS with KDE Plasma Desktop 3.8 GB ISO = only installation [ NO live session ]  
+- iDealOS  
+- Manjaro 25.0  
+- PCLinuxOS  
+- PepermintOS  
+- PuppyOS  
+- Q4OS Aquarius  
+- Rocky OS  
+- Slax  
 - Ubuntu Kylin  
 - Void Linux XFCE - error: shin_lock protocol not found  
-- Q4OS Aquarius  
-- AntiX Linux 23.2 [ https://antixlinux.com/ ] Based on: Debian, Origin: Greece, fast, lightweight and easy-to-instal  
-- Rocky OS  
-- Linux Solus  
-- iDealOS  
-- PCLinuxOS  
-- Debian - start with grub> and after adjusting grub to boot from root, display that 'shim' is bad and stop  
+- Solus Linux  
+</p>
+</details>  
+
 
 Test live Linux distro online: https://distrosea.com/ [ free registration to get Internet connection for distro test ]  
