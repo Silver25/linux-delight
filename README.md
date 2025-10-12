@@ -53,7 +53,7 @@ NOTE:
 All tests were done with each Linux distribution running first as a live session, and then second is an installation on the physical device.  
 My decision to use real machine rather than virtual machine was because of two reasons:  
 1. Laptop has Windows 10 Home installed so it need change to Linux [ can't be upgraded with Win 11 ]  
-2. Testing Linux systems on real computer will give better and more realistic results for other interested in migration to Linux  
+2. Testing Linux systems on real computer will give better and more realistic results for other interested in migration to Linux  <br><br>
 
 <details>
 <summary>Linux distros installed and fully functional <b style="color: yellow;">(open for more)</b></summary>  
@@ -76,30 +76,32 @@ My decision to use real machine rather than virtual machine was because of two r
 [Linux Lite](readme_assets/linuxlite.md),  2.9GB, Based on Ubuntu LTS, XFCE desktop, low on resources
 
 <br><hr><br>
-</details>  
+</details><br>  
 
 <details>
 <summary>Linux distros installed, but without some functionalities <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
-<p>
-The Linux distros listed here were installed successfully on a physical laptop with secure boot enabled, but failed to fulfil some tasks.</p>
-<p></p>
-</details>  
+
+#### The Linux distros listed here were installed successfully on a physical laptop with secure boot enabled, but failed to fulfil some tasks.
+
+<br><hr><br>
+</details><br>  
 
 <details>
 <summary>Distros FAILED to Install or to start as Installed <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
-<p>
-Next Linux distros can be started from USB as a Live session, but refuse to install on laptop, or failed to start as installed.</p>
-<p></p>
-</details>  
+
+#### Next Linux distros can be started from USB as a Live session, but refuse to install on laptop, or failed to start as installed.
+
+<br><hr><br>
+</details><br>  
 
 <details>
 <summary>FAILED Live session Boot from USB drive/HDD <b style="color: yellow;">(open for more)</b></summary>  
 <!-- comment -->
-<p>
-[ DIDN'T even Start from USB because of the [Secure Boot](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/), Secure Boot is NOT supported on 'Arch' Linux ]:</p>
-<p>
+
+#### [ DIDN'T even Start from USB because of the [Secure Boot](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/), Secure Boot is NOT supported on 'Arch' Linux ]:
+
 - AntiX Linux 23.2 [ https://antixlinux.com/ ] Based on: Debian, Origin: Greece, fast, lightweight and easy-to-instal  
 - Asmi Linux 25.04 based on Ubuntu and 13 based on Debian failed to download  
 - Debian - start with grub> and after adjusting grub to boot from root, display that 'shim' is bad and stop  
@@ -118,8 +120,9 @@ Next Linux distros can be started from USB as a Live session, but refuse to inst
 - Ubuntu Kylin  
 - Void Linux XFCE - error: shin_lock protocol not found  
 - Solus Linux  
-</p>
-</details>  
+
+<br><hr><br>
+</details><br>  
 
 
 Test live Linux distro online: https://distrosea.com/ [ free registration to get Internet connection for distro test ]  
