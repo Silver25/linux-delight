@@ -17,28 +17,34 @@ Acer R2 (CPU 1) Motherboard
 <details>
 <summary>If you wanna know more ... <b style="color: yellow;">(open here)</b></summary>  
 <!-- comment -->
-Dimensions (WxDxH): 29.1 cm x 21.1 cm x 2.12 cm<br>
-Weight: 1.39 kg<br>
-LCD Backlight Technology: LED backlight<br>
-Widescreen: Yes<br>
-Image Aspect Ratio: 16:9<br>
-Max RAM Supported: 8 GB<br>
-RAM Type: DDR3L SDRAM<br>
-Speed: 1600 MHz<br>
-Form Factor: SO-DIMM 204-pin<br>
-Memory Allocation Technology: Shared Video Memory (UMA)<br>
-Camera: Yes - 1280 x 720<br>
-Camera Features: 720p HD movie recording, Acer Crystal Eye HD<br>
-Sound: Stereo speakers, microphone<br>
-Compliant Standards: High Definition Audio<br>
-Wireless: 802.11b/g/n, Bluetooth 4.0<br>
-Network Interface: Gigabit Ethernet<br>
-Battery Capacity (Size): 2670 mAh<br>
-Technology: 3-cell lithium polymer<br>
-Input: AC 120/230 V (50/60 Hz)<br>
-Output: 40 Watt, 19 V<br>
-Interfaces: HDMI, Headphone/microphone combo jack, USB 3.0, USB 2.0, LAN<br>
-Memory Card Reader: Yes (SD Card)<br>
+=> connection to Wi-Fi home/personal/mobile/public [ coffe shop/library ]<br>
+=> pluged USB Wacom Bamboo Pad graphical tablet<br>
+=> Network disk drive, WD MyCloude Home, access over private Wi-Fi<br>
+=> Smart TV, Hisense, 'cast' connection<br><br>
+
+Laptop details, continue:<br>
+- Dimensions (WxDxH): 29.1 cm x 21.1 cm x 2.12 cm<br>
+- Weight: 1.39 kg<br>
+- LCD Backlight Technology: LED backlight<br>
+- Widescreen: Yes<br>
+- Image Aspect Ratio: 16:9<br>
+- Max RAM Supported: 8 GB<br>
+- RAM Type: DDR3L SDRAM<br>
+- Speed: 1600 MHz<br>
+- Form Factor: SO-DIMM 204-pin<br>
+- Memory Allocation Technology: Shared Video Memory (UMA)<br>
+- Camera: Yes - 1280 x 720<br>
+- Camera Features: 720p HD movie recording, Acer Crystal Eye HD<br>
+- Sound: Stereo speakers, microphone<br>
+- Compliant Standards: High Definition Audio<br>
+- Wireless: 802.11b/g/n, Bluetooth 4.0<br>
+- Network Interface: Gigabit Ethernet<br>
+- Battery Capacity (Size): 2670 mAh<br>
+- Technology: 3-cell lithium polymer<br>
+- Input: AC 120/230 V (50/60 Hz)<br>
+- Output: 40 Watt, 19 V<br>
+- Interfaces: HDMI, Headphone/microphone combo jack, USB 3.0, USB 2.0, LAN<br>
+- Memory Card Reader: Yes (SD Card)<br>
 </details><br>  
 
 ---
