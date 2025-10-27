@@ -115,6 +115,8 @@ OpenSUSE Leap
 
 #### Next Linux distros can be started from USB as a Live session, but refuse to install on laptop, or failed to start as installed.
 
+! You should be aware that <a href="https://linuxvox.com/blog/secure-boot-linux/">Secure Boot</a> is considered a security feature and was implemented to make it harder for things like ransomware [ Malware ] to take hold of your pc.  
+
 BlendOS  
 
 Nobara-42-Official  
