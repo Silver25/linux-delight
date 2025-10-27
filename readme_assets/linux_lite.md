@@ -25,4 +25,6 @@ ISSUES:
 - Boot/start of the system goes slowly, 110 seconds
 - Synaptic Package Manager [ App Manager ] NOT user friendly, block Terminal installation for Chromium browser
 - Screenshot [ PrtSc key ] through too many steps to save screenshot 
-- Chromium installed over Terminal not visible in menu, started with Terminal
+- Chromium installed over Terminal not visible in menu, started with Terminal  
+
+[Back to Main/Readme file](../Readme.md)  

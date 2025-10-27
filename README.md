@@ -73,7 +73,7 @@ My decision to use real machine rather than virtual machine was because of two r
 
 [Ubuntu Unity](readme_assets/ubuntuunity.md), 3.56 GB ISO
 
-[Linux Lite](readme_assets/linuxlite.md),  2.9GB, Based on Ubuntu LTS, XFCE desktop, low on resources
+[Linux Lite](readme_assets/linux_lite.md),  2.9GB, Based on Ubuntu LTS, XFCE desktop, low on resources
 
 <br><hr><br>
 </details><br>  

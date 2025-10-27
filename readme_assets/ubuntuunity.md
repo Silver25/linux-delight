@@ -18,4 +18,6 @@ ISSUES:
 - left mouse click doesn't work with touchpad tap, NO settings option
 - click and drag with touchpad, cursor/pointer go crazy - moving suddenly asides or up and down
 - Terminal doesn't accept Ctrl + V, paste from clipboard works just from "Edit" menu
-- Window control buttons are in the left top corner
+- Window control buttons are in the left top corner  
+
+[Back to Main/Readme file](../Readme.md)  

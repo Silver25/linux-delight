@@ -14,4 +14,6 @@
 - opens network WDMyCloud easily [ 'Dolphin' File Manager - Network - Shared Folders (SMB) ]  
 
 ISSUES:  
-- Firefox stuck/freeze when loading YouTube, restart help
+- Firefox stuck/freeze when loading YouTube, restart help  
+
+[Back to Main/Readme file](../Readme.md)  

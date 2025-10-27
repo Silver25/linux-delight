@@ -62,3 +62,5 @@ Workstation also includes a default set of preinstalled applications, to make it
 
 In order to prevent Workstation systems from becoming unusable, certain key components are required to be installed, and cannot be removed.  
 These non-removable components include gnome-shell, gnome-control-center, grub, and NetworkManager.  
+
+[Back to Main/Readme file](../Readme.md)  

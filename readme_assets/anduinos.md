@@ -13,4 +13,6 @@
 - opens network WDMyCloud easily  
 
 ISSUES:  
-- basic app offer by default, need to install what needed [ App Centre/Manager ]
+- basic app offer by default, need to install what needed [ App Centre/Manager ]  
+
+[Back to Main/Readme file](../Readme.md)  

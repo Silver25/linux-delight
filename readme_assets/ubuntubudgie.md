@@ -19,4 +19,6 @@
 ISSUES:  
 - Installed OS display msg that Budgie 'encounter' some difficulties
 - Installed PrtSc key doesn't work on opened App/Main Menu
-- Installed Brave browser unnecessary top bars [ tab title, tab, address bar ]
+- Installed Brave browser unnecessary top bars [ tab title, tab, address bar ]  
+
+[Back to Main/Readme file](../Readme.md)  

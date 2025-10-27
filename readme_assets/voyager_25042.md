@@ -33,4 +33,6 @@
 
 ISSUES:  
 - Alt+Tab keys doesn't work by default [ 'out of the box' ], instead is 'Super' + Tab, Ubuntu combination
-- Suspend of the system coused by closed laptop lid, NO 'out of the box' settings option to disable
+- Suspend of the system coused by closed laptop lid, NO 'out of the box' settings option to disable  
+
+[Back to Main/Readme file](../Readme.md)  
