@@ -84,6 +84,28 @@ My decision to use real machine rather than virtual machine was because of two r
 
 #### The Linux distros listed here were installed successfully on a physical laptop with secure boot enabled, but failed to fulfil some tasks.
 
+Rhino Linux  
+
+PureOS  
+
+MiniOS 4 Ultra  
+
+Ubuntu Mate  
+
+XUbuntu  
+
+Lubuntu  
+
+Linux Mint Xfce  
+
+Linux Mint 22.1 "Xia"  
+
+FunOS  
+
+OpenSUSE Tumbleweed  
+
+OpenSUSE Leap  
+
 <br><hr><br>
 </details><br>  
 
@@ -92,6 +114,42 @@ My decision to use real machine rather than virtual machine was because of two r
 <!-- comment -->
 
 #### Next Linux distros can be started from USB as a Live session, but refuse to install on laptop, or failed to start as installed.
+
+BlendOS  
+
+Nobara-42-Official  
+
+Makulu Linux  
+
+Siduction  
+
+Pop!_OS  
+
+CachyOS  
+
+EndeavourOS  
+
+Garuda  
+
+Parrot OS  
+
+Bodhi Linux  
+
+Linux MX Libretto  
+
+BunsenLabs  
+
+SDesk  
+
+Bluestar Linux  
+
+RefreshOS  
+
+Tuxedo OS  
+
+KDE Neon User edition  
+
+Linux Tails  
 
 <br><hr><br>
 </details><br>  
