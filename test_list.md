@@ -7,7 +7,7 @@ Continuing with tests is on personal feeling and with posible repair of failed a
 
 General Checklist [ basic actions and reactions for average user, 'out-of-the-box' ]:  
 
-Tasks first tested on Live environment, and then on Installed OS  
+Tasks first tested on Live environment [ USB Live session ], and then on Installed OS  
 ☐ Boot with UEFI, with secure boot ON  
 ☐ Internet connection [ private/open/public Wi-Fi ]  
 ☐ Sound on the system works  
@@ -34,4 +34,5 @@ Tasks first tested on Live environment, and then on Installed OS
 ☐ Taskbar/Dock/Panel auto hidden/open with mouse pointer movement  
 ☐ Speed when new window/app is launched  
 ☐ Key 'PrtSc' automatically save image in predefined folder  
+☐ Active development of distro from developer or community  
 ☐ Community Support, FAQs and tutorials  
