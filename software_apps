@@ -1,13 +1,64 @@
 ## Software/Apps for Linux OS
 
-List of !mportant apps for Linux OS  
+List of !mportant open-source packages/apps for Linux OS  
 
-gedit - text editor [ right click menu offer 'Change Case' action ]  
-Kate - advanced code/text editor, for developers [ Notepad++ like ]  
-Chromium - browser  
+Amarok - music player  
+Ardour - Digital Audio Workstation (DAW) for recording, editing, and mixing audio professionally  
+Audacious - simple music player that is low on resources  
+Audacity - basic audio editing tool  
+Banshee - multi-format-supporting media player
 Bitwarden - password manager  
+Blender - 3D creation suite used for modeling, animation, rendering, and more  
+Brackets - advanced text editor  
+Chromium - browser  
 codium [ VS Codium ] - IDE for developers  
+Eclipse - Java IDE  
+Element - secure open-source collaboration platform  
+Evolution - default mail app for GNOME desktop users  
+File Roller - compression utility  
+Geary - email client  
+gedit - text editor [ right click menu offer 'Change Case' action ]  
+GIMP - advanced image editor for 'raster' images  
+GnuCash - software for financial accounting tasks  
 Goodvibes - Internet radio  
+Handbrake - impressive video converter  
+Inkscape - impressive image editor for 'vector' images  
+Kate - advanced code/text editor, for developers [ Notepad++ like ]  
+Kazam - simplest solution to record your screen  
+Kdenlive - video editing program  
+KMyMoney - finance management software, personal finance manager  
+Kooha - straightforward screen recording tool  
+Krita - painting app that can also serve as an image-manipulating tool  
+LibreOffice - comprehensive office suite  
+Light Table - self-proclaimed next-generation IDE  
+Lightworks - tool for editing videos
+LMMS - Digital Audio Workstation (DAW)  
+Lollypop - music player featuring an online radio
 Mousepad - a simple text editor for the Xfce desktop environment  
+Natron - application for video composition and editing
+Netbeans - IDE to easily build applications for mobile, desktop, and web platforms  
+Notepad++ - versatile text and source code editor  
+Notepadqq - text editor  
+Okular - document viewer includes basic PDF editing features  
+Open Broadcaster Software (OBS) - popular and robust screen recorder and streaming app  
+OpenShot - video editor easy to use and robust as well  
+PDF Mix - basic PDF file editing tasks (extracting pages, deleting, adding, or merging files)  
+PDF Slicer - helps to extract, rotate, merge, and render PDF files
+PDFArranger - tool to re-arrange, merge, split, and rotate pages of a PDF file  
+Pitivi - video editor  
+Qemu - machine virtualizer and emulator  
+recordMyDesktop - session recorder
+Rhythmbox - reliable music player  
+Scribus - desktop publishing tool with necessary PDF edit features  
+Shutter - to take screenshots of desktop and then edit it using filters and other effects
+Signal - popular open-source instant messaging app  
+SimpleScreenRecorder - easy-to-use screen recorder  
+SMPlayer - capable of handling all popular media formats  
+SoundConverter - powerful audio conversion tool  
+Stacer - app for monitoring and optimizing Linux systems  
+Totem - multimedia player  
+uGet - download manager
+VLC - simple media player that supports almost every type of file format  
+XDM (Xtreme Download Manager) - downloader
 
 [Back to Main/Readme file](../Readme.md)  
